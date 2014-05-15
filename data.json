@@ -1,6 +1,13 @@
 [
 	{
 		"type": "widget",
+		"description": "Hundreds of Free App Icons from FontAwesome, easy to use - simply add icon attributes to xml tags.",
+		"github": "MattMcFarland/com.mattmcfarland.fontawesome",
+		"url": "https://github.com/MattMcFarland/com.mattmcfarland.fontawesome",
+		"json": "https://raw.github.com/MattMcFarland/com.mattmcfarland.fontawesome/master/widget.json"
+	},
+	{
+		"type": "widget",
 		"description": "Cross-platform TabGroup widget for iOS and Android",
 		"github": "jasonkneen/com.jasonkneen.tabgroup",
 		"url": "https://github.com/jasonkneen/com.jasonkneen.tabgroup",
